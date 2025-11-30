@@ -4,49 +4,66 @@
 #
 import re
 
-def load_dictionary():
-    dict = {}
-    with open ("words_alpha.txt") as f:
-        for line in f:
-            word = line.strip().lower()
+class Dictionary:
+    default_wordfile = "words_alpha.txt"
 
-            # ignore non-alphabets
-            if not re.search(r"^[a-z]+$", word):
-                continue
+    def __init__(self, wordfile=default_wordfile):
+        self.wordfile = wordfile
+        self.dict = self.load(self.wordfile)
 
-            # ignore words longer than 12 chars
-            if len(word) > 12:
-                continue
+    # create a dictionary where the key is the
+    # ordered string of characters, and the value
+    # is a list of words that can be spelled by
+    # the characters.
+    def load(self, wordfile):
+        dict = {}
+        with open (wordfile) as f:
+            for line in f:
+                word = line.strip().lower()
 
-            char_list = list(word)
-            char_list.sort()
-            word_index = "".join(char_list).lower()
+                # ignore non-alphabets
+                if not re.search(r"^[a-z]+$", word):
+                    continue
 
-            if not word_index in dict:
-                dict[word_index] = []
-            dict[word_index].append(word)
+                # ignore words longer than 12 chars
+                if len(word) > 12:
+                    continue
 
-    return dict
+                char_list = list(word)
+                char_list.sort()
+                word_key = "".join(char_list).lower()
 
-# return a list of words that can be formed
-# with the string of characters
-def find_words (dict, string):
-    char_list = list(string)
-    char_list.sort()
-    word_index = "".join(char_list).lower()
+                if not word_key in dict:
+                    dict[word_key] = []
+                dict[word_key].append(word)
 
-    if not word_index in dict:
-        return []
-    return dict[word_index]
+        return dict
+
+
+    # return a list of words that can be formed
+    # with the string of characters
+    def find(self, string):
+        char_list = list(string)
+        char_list.sort()
+        word_key = "".join(char_list).lower()
+
+        if not word_key in self.dict:
+            return []
+        return self.dict[word_key]
+
+    def __str__(self):
+        return f"This dictionary is sourced from {self.wordfile}"
+
 
 def main():
-    dict = load_dictionary()
+    dict = Dictionary()
+    print (dict)
 
     while True:
         try:
             line = input(">>> ")
             string = line.strip()
-            for match in find_words(dict, string):
+            for match in dict.find(string):
                 print(match)
         except EOFError:
             break
