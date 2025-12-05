@@ -1,0 +1,8 @@
+*/__pycache__
+
+## generic files to ignore
+*~
+*.DS_Store
+*.swp
+*.out
+
