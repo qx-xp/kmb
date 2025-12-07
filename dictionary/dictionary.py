@@ -44,8 +44,6 @@ class Dictionary:
     # with the string of characters
     def find(self, string):
         key = self.search_key(string)
-        print(f"DEBUG: lookup \"{key}\"")
-
         if not key in self.dict:
             return []
         return self.dict[key]
