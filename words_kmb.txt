@@ -25655,7 +25655,6 @@ baccillum
 baccivorous
 bach
 bacharach
-bache
 bached
 bachel
 bachelor
@@ -102092,7 +102091,6 @@ ephahs
 ephapse
 epharmony
 epharmonic
-ephas
 ephebe
 ephebea
 ephebeia
@@ -104792,7 +104790,6 @@ etamin
 etamine
 etamines
 etamins
-etang
 etape
 etapes
 etas
@@ -232220,7 +232217,6 @@ pesach
 pesade
 pesades
 pesage
-pesah
 pesante
 pescod
 peseta
@@ -332125,7 +332121,6 @@ tudoresque
 tue
 tuebor
 tuedian
-tueiron
 tuesday
 tuesdays
 tufa
@@ -357222,7 +357217,6 @@ variegating
 variegation
 variegations
 variegator
-varier
 variers
 varies
 varietal
