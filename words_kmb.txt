@@ -17630,7 +17630,6 @@ appeases
 appeasing
 appeasingly
 appeasive
-appel
 appellability
 appellable
 appellancy
@@ -19914,7 +19913,6 @@ armeria
 armeriaceae
 armers
 armet
-armets
 armful
 armfuls
 armgaunt
@@ -22009,7 +22007,6 @@ asteatosis
 asteep
 asteer
 asteism
-astel
 astely
 astelic
 aster
@@ -45332,7 +45329,6 @@ callitrichaceous
 callitriche
 callitrichidae
 callitris
-callo
 calloo
 callop
 callorhynchidae
@@ -51242,7 +51238,6 @@ ceramography
 ceramographic
 cerargyrite
 ceras
-cerasein
 cerasin
 cerastes
 cerastium
@@ -55936,7 +55931,6 @@ choush
 choushes
 chousing
 chousingha
-chout
 choux
 chow
 chowanoc
@@ -62798,7 +62792,6 @@ coliuria
 colius
 colk
 coll
-colla
 collab
 collabent
 collaborate
@@ -70278,7 +70271,6 @@ coteen
 coteful
 cotehardie
 cotele
-coteline
 coteller
 cotemporane
 cotemporanean
@@ -71398,7 +71390,6 @@ coutelle
 couter
 couters
 coutet
-couth
 couthe
 couther
 couthest
@@ -81275,7 +81266,6 @@ dentelle
 dentelliere
 dentello
 dentelure
-denter
 dentes
 dentex
 denty
@@ -101655,7 +101645,6 @@ entreating
 entreatingly
 entreatment
 entreats
-entrec
 entrechat
 entrechats
 entrecote
@@ -103551,7 +103540,6 @@ erepsin
 erepsins
 erept
 ereptase
-ereptic
 ereption
 erer
 erethic
@@ -146887,7 +146875,6 @@ yerava
 yeraver
 yerb
 yerba
-yerbal
 yerbales
 yerbas
 yercum
@@ -168935,7 +168922,6 @@ lathworks
 lati
 latian
 latibule
-latibulize
 latices
 laticifer
 laticiferous
@@ -180468,7 +180454,6 @@ martens
 martensite
 martensitic
 martensitically
-martes
 martext
 martha
 marty
@@ -181127,7 +181112,6 @@ maternalness
 maternity
 maternities
 maternology
-maters
 mates
 mateship
 mateships
@@ -181193,7 +181177,6 @@ matranee
 matrass
 matrasses
 matreed
-matres
 matriarch
 matriarchal
 matriarchalism
@@ -212087,7 +212070,6 @@ oleorefractometer
 oleoresin
 oleoresinous
 oleoresins
-oleos
 oleosaccharum
 oleose
 oleosity
@@ -230176,7 +230158,6 @@ pepinella
 pepino
 pepinos
 pepysian
-pepla
 pepless
 peplos
 peplosed
@@ -246145,7 +246126,6 @@ preciso
 precyst
 precystic
 precitation
-precite
 precited
 preciting
 precivilization
@@ -260283,7 +260263,6 @@ ramesh
 ramessid
 ramesside
 ramet
-ramets
 ramex
 ramfeezled
 ramforce
@@ -267155,7 +267134,6 @@ remarshaling
 remarshalling
 remask
 remass
-remast
 remaster
 remastery
 remasteries
@@ -269328,7 +269306,6 @@ reshunt
 reshut
 reshutting
 reshuttle
-resiance
 resiancy
 resiant
 resiccate
@@ -276987,7 +276964,6 @@ salesroom
 salesrooms
 saleswoman
 saleswomen
-salet
 saleware
 salework
 salfern
@@ -286603,7 +286579,6 @@ seta
 setaceous
 setaceously
 setae
-setal
 setaria
 setarid
 setarious
@@ -303532,7 +303507,6 @@ steinkirk
 steins
 steironema
 stekan
-stela
 stelae
 stelai
 stelar
@@ -315885,7 +315859,6 @@ tameness
 tamenesses
 tamer
 tamerlanism
-tamers
 tames
 tamest
 tamias
@@ -317465,7 +317438,6 @@ tealeafy
 tealery
 tealess
 teallite
-teals
 team
 teamaker
 teamakers
@@ -318784,7 +318756,6 @@ tendour
 tendovaginal
 tendovaginitis
 tendrac
-tendre
 tendrel
 tendresse
 tendry
@@ -318949,7 +318920,6 @@ tenpenny
 tenpin
 tenpins
 tenpounder
-tenrec
 tenrecidae
 tenrecs
 tens
@@ -319429,7 +319399,6 @@ ternatipinnate
 ternatisect
 ternatopinnate
 terne
-terned
 terneplate
 terner
 ternery
@@ -319684,7 +319653,6 @@ teschenite
 teschermacherite
 teskere
 teskeria
-tesla
 teslas
 tess
 tessara
@@ -323049,7 +323017,6 @@ thunge
 thunnidae
 thunnus
 thunor
-thuoc
 thurberia
 thurgi
 thurible
@@ -346570,7 +346537,6 @@ unmordanted
 unmordantly
 unmoribund
 unmoribundly
-unmorose
 unmorosely
 unmoroseness
 unmorphological
