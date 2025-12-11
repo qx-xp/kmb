@@ -11,7 +11,11 @@ class SpellingBeeDictionaryUpdater(DictionaryUpdater):
         # remove all words that are less than 4 letters
         if len(word) < 4:
             return True
-        
+
+        # spelling bee only uses 7 unique characters
+        if len(set(word)) > 7:
+            return True
+
         return False
 
     # The file contains a list of words that may be prefixed by:
@@ -19,7 +23,7 @@ class SpellingBeeDictionaryUpdater(DictionaryUpdater):
     #   '++' (no quote): add the word to the dictionary
     #   no prefix: do nothing to the word
     def load_changes(self, file):
-        change_matcher = re.compile(r'^(--|\+\+){1}(.+)$')
+        change_matcher = re.compile(r'^(--|\+\+)\s*(\w+)\s*$')
 
         words_to_add = set()
         words_to_remove = set()
