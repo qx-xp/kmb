@@ -2797,7 +2797,6 @@ acreable
 acreage
 acreages
 acreak
-acream
 acred
 acredula
 acreman
@@ -6303,7 +6302,6 @@ agnations
 agnean
 agneau
 agneaux
-agnel
 agnes
 agnification
 agnition
@@ -20957,7 +20955,6 @@ ascetics
 ascetta
 aschaffite
 ascham
-ascher
 aschistic
 asci
 ascian
@@ -21055,7 +21052,6 @@ ascriptitious
 ascriptitius
 ascriptive
 ascrive
-ascula
 asculae
 ascupart
 ascus
@@ -21378,10 +21374,6 @@ aspectual
 aspen
 aspens
 asper
-asperate
-asperated
-asperates
-asperating
 asperation
 aspergation
 asperge
@@ -23475,8 +23467,6 @@ auncel
 aune
 aunjetitz
 aunt
-aunter
-aunters
 aunthood
 aunthoods
 aunty
@@ -23487,7 +23477,6 @@ auntly
 auntlier
 auntliest
 auntlike
-auntre
 auntrous
 aunts
 auntsary
@@ -45488,7 +45477,6 @@ calumnious
 calumniously
 calumniousness
 caluptra
-calusa
 calusar
 calutron
 calutrons
@@ -48860,8 +48848,6 @@ cashdrawer
 cashed
 casheen
 cashel
-casher
-cashers
 cashes
 cashew
 cashews
@@ -49151,7 +49137,6 @@ casuistically
 casuistry
 casuistries
 casuists
-casula
 casule
 casus
 casusistry
@@ -52781,7 +52766,6 @@ chare
 chared
 charely
 charer
-chares
 charet
 chareter
 charette
@@ -60312,7 +60296,6 @@ clodpoles
 clodpoll
 clodpolls
 clods
-cloes
 clof
 cloff
 clofibrate
@@ -62704,7 +62687,6 @@ coleosporiaceae
 coleosporium
 coleplant
 colera
-coles
 coleseed
 coleseeds
 coleslaw
@@ -78139,8 +78121,6 @@ deceivably
 deceivance
 deceive
 deceived
-deceiver
-deceivers
 deceives
 deceiving
 deceivingly
@@ -104047,8 +104027,6 @@ eruptivity
 erupts
 erupturient
 ervenholder
-ervil
-ervils
 ervipiame
 ervum
 erwin
@@ -104142,7 +104120,6 @@ escarteled
 escartelly
 eschalot
 eschalots
-eschar
 eschara
 escharine
 escharoid
@@ -121186,7 +121163,6 @@ galeidae
 galeiform
 galempong
 galempung
-galen
 galena
 galenas
 galenian
@@ -123367,7 +123343,6 @@ gemwork
 gen
 gena
 genae
-genal
 genapp
 genappe
 genapped
@@ -129715,7 +129690,6 @@ gressoria
 gressorial
 gressorious
 gret
-greta
 gretchen
 grete
 gretel
@@ -135701,7 +135675,6 @@ helloes
 helloing
 hellos
 hellroot
-hells
 hellship
 helluo
 helluva
@@ -167256,7 +167229,6 @@ lag
 lagan
 lagans
 lagarto
-lagen
 lagena
 lagenae
 lagenaria
@@ -173984,8 +173956,6 @@ livlihood
 livonian
 livor
 livraison
-livre
-livres
 liwan
 lixive
 lixivia
@@ -179908,7 +179878,6 @@ mardi
 mardy
 mare
 mareblob
-mareca
 marechal
 marechale
 marehan
@@ -194106,7 +194075,6 @@ moudie
 moudieman
 moue
 mouedhin
-moues
 moufflon
 moufflons
 mouflon
@@ -196468,7 +196436,6 @@ nagara
 nagari
 nagasaki
 nagatelite
-nagel
 naggar
 nagged
 nagger
@@ -199479,7 +199446,6 @@ ngai
 ngaio
 ngapi
 ngoko
-ngoma
 nguyen
 ngwee
 nhan
@@ -259321,7 +259287,6 @@ raceways
 rach
 rache
 rachel
-raches
 rachet
 rachets
 rachial
@@ -262595,7 +262560,6 @@ recarve
 recarved
 recarving
 recase
-recash
 recasket
 recast
 recaster
@@ -270204,7 +270168,6 @@ retabulated
 retabulating
 retack
 retackle
-retag
 retail
 retailable
 retailed
@@ -296195,8 +296158,6 @@ sockman
 sockmen
 socko
 socks
-socle
-socles
 socman
 socmanry
 socmen
@@ -316520,8 +316481,6 @@ tareq
 tares
 tarfa
 tarflower
-targe
-targed
 targeman
 targer
 targes
@@ -319268,7 +319227,6 @@ tereus
 terfez
 terfezia
 terfeziaceae
-terga
 tergal
 tergant
 tergeminal
