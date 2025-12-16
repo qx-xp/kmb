@@ -2734,7 +2734,6 @@ affine
 affined
 affinely
 affines
-affing
 affinitative
 affinite
 affinities
@@ -2815,7 +2814,6 @@ afgod
 aficionada
 aficionado
 afield
-afifi
 afire
 aflagellar
 aflame
@@ -3593,7 +3591,6 @@ ains
 ainsell
 ainsells
 aint
-ainu
 ainus
 aioli
 aiolis
@@ -3770,8 +3767,6 @@ aitutakian
 aiver
 aivers
 aivr
-aiwain
-aiwan
 aizle
 aizoaceae
 ajaja
@@ -12948,11 +12943,9 @@ awhirl
 awide
 awiggle
 awikiwiki
-awin
 awing
 awingly
 awink
-awiwi
 awkly
 awkward
 awkwarder
@@ -57438,7 +57431,6 @@ fager
 fagged
 fagger
 faggery
-fagging
 faggingly
 faggot
 faggoted
@@ -57447,7 +57439,6 @@ faggotry
 faggots
 faggoty
 faggy
-fagin
 fagine
 fagins
 fagot
@@ -57484,9 +57475,7 @@ fails
 failsafe
 failsoft
 failure
-fain
 fainaigue
-fainaiguing
 fainant
 faineance
 faineancy
@@ -57789,7 +57778,6 @@ fanga
 fangas
 fanged
 fanger
-fanging
 fangle
 fangled
 fangless
@@ -57817,7 +57805,6 @@ fanneling
 fannell
 fanner
 fanners
-fannia
 fannier
 fannies
 fanning
@@ -59215,7 +59202,6 @@ fiancee
 fiancees
 fiances
 fiancing
-fianna
 fiant
 fiants
 fiar
@@ -59485,7 +59471,6 @@ figged
 figgery
 figgier
 figgiest
-figging
 figgle
 figgum
 figgy
@@ -59812,7 +59797,6 @@ finfoots
 fingal
 fingall
 fingallian
-fingan
 fingent
 finger
 fingered
@@ -59823,11 +59807,8 @@ fingerings
 fingerling
 fingers
 fingery
-fingian
 fingram
 fingrigo
-fingu
-fini
 finial
 finialed
 finials
@@ -59876,10 +59857,8 @@ finless
 finlet
 finlike
 finmark
-finn
 finnac
 finnack
-finnan
 finned
 finner
 finnesko
@@ -59891,7 +59870,6 @@ finnicking
 finnicky
 finnier
 finniest
-finning
 finnip
 finnish
 finnmark
@@ -63697,7 +63675,6 @@ fugatos
 fugged
 fuggier
 fuggiest
-fugging
 fuggy
 fughetta
 fughette
@@ -63722,7 +63699,6 @@ fugue
 fugued
 fuguelike
 fugues
-fuguing
 fuguist
 fuguists
 fuhrer
@@ -63904,13 +63880,10 @@ fungate
 fungating
 funge
 fungi
-fungia
-fungian
 fungic
 fungid
 fungify
 fungillus
-fungin
 fungite
 fungo
 fungoes
@@ -63956,7 +63929,6 @@ funniest
 funnily
 funniment
 funniness
-funning
 funny
 funnyman
 funnymen
@@ -64404,7 +64376,6 @@ gaffed
 gaffer
 gaffers
 gaffes
-gaffing
 gaffkya
 gaffle
 gaffs
@@ -65561,7 +65532,6 @@ gavotted
 gavottes
 gavotting
 gavyuti
-gawain
 gawby
 gawcey
 gawcie
@@ -66614,7 +66584,6 @@ gies
 gieseckite
 giesel
 gifblaar
-giffgaff
 gifola
 gift
 giftbook
@@ -66697,7 +66666,6 @@ gigster
 gigtree
 gigue
 gigues
-gigunu
 giher
 giinwale
 gilaki
@@ -66803,7 +66771,6 @@ gimps
 gimpy
 ginep
 ginete
-ging
 gingalls
 gingals
 gingeley
@@ -66851,7 +66818,6 @@ ginkgo
 ginkgoes
 ginks
 ginmill
-ginn
 ginned
 ginnel
 ginner
@@ -70108,7 +70074,6 @@ guango
 guanidin
 guanidine
 guanidins
-guanin
 guanine
 guanines
 guanins
@@ -70282,7 +70247,6 @@ guffawed
 guffawing
 guffaws
 guffer
-guffin
 guffs
 guffy
 gufought
@@ -70300,8 +70264,6 @@ guha
 guhayna
 guhr
 guiac
-guiana
-guianan
 guianese
 guib
 guiba
@@ -77711,7 +77673,6 @@ ignatianist
 ignatias
 ignatius
 ignavia
-ignaw
 igneous
 ignescence
 ignescent
@@ -77760,8 +77721,6 @@ igorot
 igraine
 iguana
 iguanas
-iguania
-iguanian
 iguanians
 iguanid
 iguanidae
@@ -79545,7 +79504,6 @@ infamy
 infancies
 infancy
 infand
-infang
 infans
 infant
 infanta
@@ -79567,7 +79525,6 @@ infares
 infatuate
 infatuating
 infatuation
-infauna
 infaunae
 infaunal
 infaunas
@@ -79644,7 +79601,6 @@ infilm
 infilter
 infima
 infimum
-infin
 infinitant
 infinitary
 infinitate
@@ -82690,7 +82646,6 @@ ivylike
 ivyweed
 ivywood
 ivywort
-iwaiwa
 iwbells
 iwberry
 iwearth
@@ -105520,7 +105475,6 @@ nieveta
 nievling
 nife
 nifesima
-niff
 niffer
 niffered
 niffering
@@ -105558,7 +105512,6 @@ niggertoe
 niggerweed
 niggery
 nigget
-nigging
 niggle
 niggled
 niggler
@@ -105570,7 +105523,6 @@ nigglings
 niggly
 niggot
 niggra
-niggun
 nigh
 nighed
 nigher
@@ -105625,7 +105577,6 @@ nigrosin
 nigrosine
 nigrosins
 nigrous
-nigua
 nihal
 nihilianism
 nihilify
@@ -105716,7 +105667,6 @@ ninetyish
 ninetyknot
 ninevite
 ninevitish
-ning
 ningle
 ningpo
 ninhydrin
@@ -105887,7 +105837,6 @@ nitty
 nitwit
 nitwits
 nitwitted
-niuan
 niue
 nival
 nivation
@@ -108420,9 +108369,7 @@ nunnation
 nunned
 nunneries
 nunnery
-nunni
 nunnify
-nunning
 nunnish
 nunnishness
 nunquam
@@ -170602,12 +170549,10 @@ unaged
 unageing
 unaghast
 unagile
-unaging
 unagitation
 unagrarian
 unagreed
 unagreeing
-unai
 unaided
 unaiding
 unailing
@@ -172421,7 +172366,6 @@ unfaded
 unfading
 unfagged
 unfailing
-unfain
 unfaint
 unfainting
 unfair
@@ -172449,7 +172393,6 @@ unfatted
 unfatten
 unfatty
 unfaulty
-unfawning
 unfazed
 unfeared
 unfearful
@@ -172699,11 +172642,8 @@ unfutile
 ungag
 ungaged
 ungagged
-ungagging
-ungain
 ungained
 ungainful
-ungaining
 ungainly
 ungainness
 ungainsaid
@@ -173276,7 +173216,6 @@ uninjuring
 uninjurious
 uninked
 uninlaid
-uninn
 uninnate
 uninnateness
 uninnocence
@@ -174010,7 +173949,6 @@ unmuzzles
 unmuzzling
 unnabbed
 unnagged
-unnagging
 unnaggingly
 unnail
 unnailed
@@ -175990,7 +175928,6 @@ unwallet
 unwan
 unwandered
 unwaned
-unwaning
 unwanted
 unwanton
 unwarded
@@ -176068,9 +176005,7 @@ unwidened
 unwidowed
 unwield
 unwifed
-unwig
 unwigged
-unwigging
 unwild
 unwildly
 unwilful
@@ -176099,7 +176034,6 @@ unwinged
 unwink
 unwinking
 unwinly
-unwinning
 unwinnowed
 unwinter
 unwintry
@@ -180347,7 +180281,6 @@ waff
 waffed
 waffie
 waffies
-waffing
 waffle
 waffled
 waffles
@@ -180369,7 +180302,6 @@ wafture
 wafty
 waganda
 wagang
-waganging
 wagati
 wagaun
 wagbeard
@@ -180476,7 +180408,6 @@ waicuri
 waicurian
 waif
 waifed
-waifing
 waifs
 waiguli
 waik
@@ -180493,7 +180424,6 @@ wailing
 wailingly
 wails
 waily
-wain
 wainable
 wainage
 wainer
@@ -180541,7 +180471,6 @@ waivery
 waives
 waiving
 waivod
-waiwai
 waiwode
 wajang
 waka
@@ -180784,7 +180713,6 @@ wanhorn
 waniand
 wanier
 waniest
-wanigan
 wanigans
 waning
 wanion
@@ -180806,9 +180734,7 @@ wanner
 wanness
 wannesses
 wannest
-wannigan
 wannigans
-wanning
 wannish
 wanny
 wanrest
@@ -182986,10 +182912,8 @@ wifeship
 wifeward
 wifie
 wifiekie
-wifing
 wifish
 wifock
-wigan
 wigans
 wigdom
 wigeling
@@ -183373,7 +183297,6 @@ winklot
 winks
 winless
 winly
-winna
 winnable
 winnard
 winnecowet
