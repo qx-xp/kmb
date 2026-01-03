@@ -3228,7 +3228,6 @@ actionable
 actionably
 actional
 actionary
-actioner
 actiones
 actionist
 actionize
@@ -5441,6 +5440,7 @@ affluent
 affluently
 affluentness
 affluents
+affluenza
 afflux
 affluxes
 affluxion
@@ -8992,7 +8992,6 @@ allotter
 allottery
 allotters
 allotting
-allover
 allovers
 allow
 allowable
@@ -12559,7 +12558,6 @@ anerly
 aneroid
 aneroidograph
 aneroids
-anerotic
 anes
 anesis
 anesone
@@ -13840,7 +13838,6 @@ anorchus
 anorectal
 anorectic
 anorectous
-anoretic
 anorexy
 anorexia
 anorexiant
@@ -16065,7 +16062,6 @@ antireligiously
 antiremonstrant
 antirennet
 antirennin
-antirent
 antirenter
 antirentism
 antirepublican
@@ -25691,6 +25687,7 @@ backbear
 backbearing
 backbeat
 backbeats
+backbench
 backbencher
 backbenchers
 backbend
@@ -29355,7 +29352,6 @@ beadhouse
 beadhouses
 beady
 beadier
-beadiest
 beadily
 beadiness
 beading
@@ -29865,6 +29861,7 @@ becoward
 becowarded
 becowarding
 becowards
+becquerel
 becquerelite
 becram
 becramp
@@ -32072,7 +32069,6 @@ berimed
 berimes
 beriming
 bering
-beringed
 beringite
 beringleted
 berinse
@@ -40197,6 +40193,7 @@ breakaway
 breakax
 breakaxe
 breakback
+breakbeat
 breakbone
 breakbones
 breakdown
@@ -42765,7 +42762,6 @@ bund
 bunda
 bundahish
 bundeli
-bunder
 bundestag
 bundh
 bundy
@@ -43163,7 +43159,6 @@ burmite
 burn
 burnable
 burnbeat
-burned
 burner
 burners
 burnet
@@ -46489,7 +46484,6 @@ canorously
 canorousness
 canos
 canossa
-canotier
 canreply
 canroy
 canroyer
@@ -50965,7 +50959,6 @@ centrodesmose
 centrodesmus
 centrodorsal
 centrodorsally
-centroid
 centroidal
 centroids
 centrolecithal
@@ -51208,7 +51201,6 @@ ceratin
 ceratinous
 ceratins
 ceratioid
-ceration
 ceratite
 ceratites
 ceratitic
@@ -60553,6 +60545,7 @@ clownship
 clowre
 clowring
 cloxacillin
+clozapine
 cloze
 clr
 club
@@ -65658,7 +65651,6 @@ conducts
 conductus
 condue
 conduit
-conduits
 conduplicate
 conduplicated
 conduplication
@@ -66299,7 +66291,6 @@ coniroster
 conirostral
 conirostres
 conisance
-conite
 conium
 coniums
 conyza
@@ -68862,7 +68853,6 @@ cordials
 cordycepin
 cordiceps
 cordyceps
-cordicole
 cordierite
 cordies
 cordiform
@@ -69802,7 +69792,6 @@ corticous
 cortile
 cortin
 cortina
-cortinae
 cortinarious
 cortinarius
 cortinate
@@ -75332,7 +75321,6 @@ currentness
 currents
 currentwise
 curry
-curricla
 curricle
 curricled
 curricles
@@ -76747,7 +76735,6 @@ dante
 dantean
 dantesque
 danthonia
-dantist
 dantology
 dantomania
 danton
@@ -80026,7 +80013,6 @@ delimed
 delimer
 delimes
 deliming
-delimit
 delimitate
 delimitated
 delimitating
@@ -95203,7 +95189,6 @@ echt
 echuca
 eciliate
 ecyphellate
-eciton
 ecize
 eckehart
 ecklein
@@ -112321,6 +112306,7 @@ figging
 figgle
 figgum
 fight
+fightback
 fightable
 fighter
 fighteress
@@ -116290,7 +116276,6 @@ forbruise
 forbs
 forcaria
 forcarve
-forcat
 force
 forceable
 forced
@@ -128850,7 +128835,6 @@ grantable
 granted
 grantedly
 grantee
-grantees
 granter
 granters
 granth
@@ -129326,7 +129310,6 @@ greatcoats
 greaten
 greatened
 greatening
-greatens
 greater
 greatest
 greathead
@@ -131783,6 +131766,7 @@ hacksaw
 hacksaws
 hacksilber
 hackster
+hacktivism
 hackthorn
 hacktree
 hackwood
@@ -141672,7 +141656,6 @@ histidin
 histidine
 histidins
 histie
-histing
 histiocyte
 histiocytic
 histioid
@@ -146713,7 +146696,6 @@ yellowwood
 yellowwort
 yells
 yelm
-yelmer
 yelp
 yelped
 yelper
@@ -152345,7 +152327,6 @@ ingenital
 ingenite
 ingent
 ingenu
-ingenue
 ingenues
 ingenuity
 ingenuities
@@ -154088,7 +154069,6 @@ integer
 integers
 integrability
 integrable
-integral
 integrality
 integralization
 integralize
@@ -154919,7 +154899,6 @@ interimistic
 interimistical
 interimistically
 interimperial
-interims
 interincorporation
 interindependence
 interindicate
@@ -155327,7 +155306,6 @@ internalness
 internals
 internarial
 internasal
-internat
 internation
 international
 internationale
@@ -169828,7 +169806,6 @@ leesomely
 leet
 leetle
 leetman
-leetmen
 leets
 leeway
 leeways
@@ -189317,7 +189294,6 @@ misintelligence
 misintelligible
 misintend
 misintention
-misinter
 misinterment
 misinterpret
 misinterpretable
@@ -197841,7 +197817,6 @@ negate
 negated
 negatedness
 negater
-negaters
 negates
 negating
 negation
@@ -198578,7 +198553,6 @@ nerver
 nerveroot
 nerves
 nervy
-nervid
 nerviduct
 nervier
 nerviest
@@ -200486,7 +200460,6 @@ noctuid
 noctuidae
 noctuideous
 noctuidous
-noctuids
 noctuiform
 noctule
 noctules
@@ -200575,7 +200548,6 @@ noes
 noesis
 noesises
 noetian
-noetic
 noetics
 noex
 noexecute
@@ -210433,7 +210405,6 @@ obvelation
 obvention
 obversant
 obverse
-obversely
 obverses
 obversion
 obvert
@@ -210857,7 +210828,6 @@ octillion
 octillions
 octillionth
 octyls
-octine
 octyne
 octingentenary
 octoad
@@ -222213,7 +222183,6 @@ oxyopidae
 oxyosphresia
 oxypetalous
 oxyphenyl
-oxyphenol
 oxyphil
 oxyphile
 oxyphiles
@@ -232070,7 +232039,6 @@ pessimists
 pessimize
 pessimum
 pessomancy
-pessoner
 pessular
 pessulus
 pest
@@ -242794,7 +242762,6 @@ ponderosity
 ponderous
 ponderously
 ponderousness
-ponders
 pondfish
 pondfishes
 pondful
@@ -247577,7 +247544,6 @@ prehandicapping
 prehandle
 prehandled
 prehandling
-prehaps
 preharden
 prehardened
 prehardener
@@ -257564,6 +257530,7 @@ quaestors
 quaestorship
 quaestuary
 quaff
+quaffable
 quaffed
 quaffer
 quaffers
@@ -261486,7 +261453,6 @@ reagan
 reaganomics
 reagency
 reagent
-reagents
 reaggravate
 reaggravation
 reaggregate
@@ -263342,7 +263308,6 @@ recoupment
 recoups
 recour
 recours
-recourse
 recourses
 recover
 recoverability
@@ -269468,7 +269433,6 @@ respan
 respangle
 resparkle
 respasse
-respeak
 respecify
 respecification
 respecifications
@@ -270161,7 +270125,6 @@ retenue
 retepora
 retepore
 reteporidae
-retest
 retested
 retestify
 retestified
@@ -270516,7 +270479,6 @@ retributively
 retributor
 retributory
 retricked
-retried
 retrier
 retriers
 retries
@@ -274083,6 +274045,7 @@ roosts
 root
 rootage
 rootages
+rootbound
 rootcap
 rooted
 rootedly
@@ -275871,7 +275834,6 @@ sableness
 sables
 sably
 sabora
-saboraim
 sabot
 sabotage
 sabotaged
@@ -279858,7 +279820,6 @@ schema
 schemas
 schemata
 schemati
-schematic
 schematical
 schematically
 schematics
@@ -282999,7 +282960,6 @@ segol
 segolate
 segos
 segou
-segreant
 segregable
 segregant
 segregate
@@ -286440,7 +286400,6 @@ settaine
 settecento
 settee
 settees
-setter
 settergrass
 setters
 setterwort
@@ -301302,7 +301261,6 @@ spurry
 spurrial
 spurrier
 spurriers
-spurries
 spurring
 spurrings
 spurrite
@@ -302779,7 +302737,6 @@ stasimetric
 stasimon
 stasimorphy
 stasiphobia
-stasis
 stasisidia
 stasophobia
 stassfurtite
@@ -303818,7 +303775,6 @@ sterlings
 stern
 sterna
 sternad
-sternage
 sternal
 sternalis
 sternbergia
@@ -306673,7 +306629,6 @@ stunsail
 stunsails
 stunsle
 stunt
-stunted
 stuntedly
 stuntedness
 stunter
@@ -317842,7 +317797,6 @@ telembi
 telemechanic
 telemechanics
 telemechanism
-telemen
 telemetacarpal
 telemeteorograph
 telemeteorography
@@ -324221,7 +324175,6 @@ tire
 tyre
 tired
 tyred
-tireder
 tiredest
 tiredly
 tiredness
@@ -325627,6 +325580,7 @@ topic
 topical
 topicality
 topicalities
+topicalize
 topically
 topics
 topinambou
@@ -325948,7 +325902,6 @@ torpedos
 torpent
 torpescence
 torpescent
-torpex
 torpid
 torpidity
 torpidities
@@ -333870,7 +333823,6 @@ umbelap
 umbeled
 umbella
 umbellales
-umbellar
 umbellate
 umbellated
 umbellately
@@ -335911,7 +335863,6 @@ unbreathableness
 unbreatheable
 unbreathed
 unbreathing
-unbred
 unbreech
 unbreeched
 unbreeches
@@ -353442,7 +353393,6 @@ unvenerative
 unvenereal
 unvenged
 unvengeful
-unveniable
 unvenial
 unveniality
 unvenially
@@ -354667,7 +354617,6 @@ uprise
 uprisement
 uprisen
 upriser
-uprisers
 uprises
 uprising
 uprisings
@@ -358172,7 +358121,6 @@ verdicts
 verdigris
 verdigrised
 verdigrisy
-verdin
 verdins
 verdite
 verditer
